@@ -1,0 +1,19 @@
+{
+  "name": "metric_imperial_converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "mathjs": "^6.6.2",
+    "passport": "^0.4.1"
+  }
+}
